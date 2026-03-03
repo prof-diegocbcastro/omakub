@@ -17,3 +17,4 @@ Omakub is released under the [MIT License](https://opensource.org/licenses/MIT).
 While omakub is purposed to be an opinionated take, the open source community offers alternative customization, add-ons, extras, that you can use to adjust, replace or enrich your experience.
 
 [⇒ Browse the omakub extensions.](EXTENSIONS.md)
+dwdw
